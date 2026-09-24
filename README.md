@@ -2,7 +2,7 @@
 
 > **input $0.0229; cached_input $0.0046; explicit_cached_input $0.0023** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-443d21)** · **[Get an API key](https://go.apimart.ai/k-ff3872)**
 
 Everything here refers to **qwen3.7-flash** — also written **qwen3.7flash** or **qwen3.7 flash**.
 
