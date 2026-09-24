@@ -1,0 +1,14 @@
+{
+  "repo": "qwen3.7flash-qwen3.7-flash-api",
+  "model": "qwen3.7-flash",
+  "display": "Qwen3.7 Flash",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.0228568,
+    "cached_input": 0.0045712,
+    "explicit_cached_input": 0.0022856
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
